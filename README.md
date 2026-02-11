@@ -12,8 +12,8 @@
   </p>
 
   <p>
-    <a href="mailto:gensobrinho@hotmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">LinkedIn</a> •
+    <a href="mailto:mathausdev@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/mathaussobrinho" target="_blank">LinkedIn</a> •
     <a href="https://github.com/mathaussobrinho?tab=repositories" target="_blank">Repositórios</a>
   </p>
 
@@ -37,10 +37,10 @@
 | Área | Tecnologias |
 |------|-------------|
 | **Back-end** | C#, .NET, APIs REST |
-| **Front-end** | TypeScript, JavaScript, React, React Native, HTML, CSS, Sass, Tailwind CSS |
-| **Banco de dados** | SQL, Microsoft SQL Server |
-| **DevOps / Cloud** | Docker, Azure, AWS, Azure DevOps |
-| **Automação & Ferramentas** | n8n, PowerShell, Shell Script, Postman |
+| **Front-end** | TypeScript, JavaScript, React, React Native, HTML, CSS, Tailwind CSS |
+| **Banco de dados** | SQL |
+| **DevOps / Cloud** | Docker, Azure, AWS, Linux |
+| **Automação & Ferramentas** | n8n, Postman |
 
 </div>
 
@@ -55,7 +55,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 
 <br/>
 
@@ -64,7 +63,6 @@
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 <br/>
@@ -78,19 +76,16 @@
 
 <!-- Banco de dados -->
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 <br/>
 
 <!-- DevOps / Cloud / Automação -->
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/n8n-4A00FF?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-2C4F7C?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 </div>
 
@@ -113,12 +108,12 @@ Alguns tipos de projetos que você encontra em **[mathaus.site](https://mathaus.
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=mathaussobrinho&show_icons=true&theme=transparent&hide_border=true" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathaussobrinho&show_icons=true&theme=transparent&hide_border=true" 
   alt="Estatísticas do GitHub de Mathaus"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathaussobrinho&layout=compact&theme=transparent&hide_border=true" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathaussobrinho&layout=compact&theme=transparent&hide_border=true" 
   alt="Linguagens mais usadas por Mathaus"
 />
 
