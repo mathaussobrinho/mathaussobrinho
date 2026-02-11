@@ -128,6 +128,6 @@ Alguns tipos de projetos que você encontra em **[mathaus.site](https://mathaus.
 
 ### Contato
 
-- 📧 Email: `gensobrinho@hotmail.com`
+- 📧 Email: `mathausdev@gmail.com`
 - 🌐 Portfólio: `https://mathaus.site`
-- 💼 LinkedIn: `https://www.linkedin.com/in/SEU_LINKEDIN_AQUI`
+- 💼 LinkedIn: `https://www.linkedin.com/in/mathaussobrinho`
